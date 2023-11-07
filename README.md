@@ -1,7 +1,6 @@
-Original App Design Project - README Template
-===
+Original App Design Project
 
-# APP_NAME_HERE
+# Teachers First
 
 ## Table of Contents
 
@@ -14,7 +13,7 @@ Original App Design Project - README Template
 
 ### Description
 
-[Description of your app]
+This application is a social network that helps connect teachers in Kenya to help each other solve problems more efficiently and effectively. Teachers can find other teachers of similar backgrounds or the problems they are struggling through and have a discussion.  
 
 ### App Evaluation
 
